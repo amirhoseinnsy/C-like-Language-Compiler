@@ -1,0 +1,21 @@
+Line 2: Stmt function reverseNumber = 3
+Line 3: Expr 0
+Line 4: Expr >
+Line 4: Stmt while = 2
+Line 5: Expr =
+Line 6: Expr /=
+Line 8: Expr reversedNum
+Line 11: Stmt function main = 7
+Line 15: Expr printf
+Line 16: Expr scanf
+Line 19: Expr <
+Line 19: Stmt selection = 2
+Line 20: Expr printf
+Line 21: Expr 0
+Line 25: Expr reverseNumber
+Line 26: Expr ==
+Line 26: Stmt selection = 1
+Line 28: Stmt selection = 1
+Line 27: Expr printf
+Line 29: Expr printf
+Line 32: Expr 0

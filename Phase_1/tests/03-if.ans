@@ -1,0 +1,6 @@
+Line 1: Stmt function main = 1
+Line 2: Expr 1
+Line 2: Stmt selection = 1
+Line 4: Expr 0
+Line 4: Stmt selection = 2
+Line 7: Stmt selection = 3
